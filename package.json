@@ -8,10 +8,12 @@
     "async"
   ],
   "homepage": "http://github.com/yiminghe/async-validator",
-  "author": "yiminghe@gmail.com",
+  "author": {
+    "name": "yiminghe@gmail.com"
+  },
   "repository": {
     "type": "git",
-    "url": "git@github.com:yiminghe/async-validator.git"
+    "url": "git+ssh://git@github.com/yiminghe/async-validator.git"
   },
   "files": [
     "lib"
@@ -43,5 +45,31 @@
   },
   "pre-commit": [
     "lint"
-  ]
+  ],
+  "gitHead": "4c02e015c89dd54fefa80ff804d9d4b06be31028",
+  "_id": "async-validator@1.6.8",
+  "_shasum": "fbaaa9002b41066fdf3ba21d8a4ca8b1179ad36b",
+  "_from": "async-validator@>=1.6.6 <2.0.0",
+  "_npmVersion": "3.10.8",
+  "_nodeVersion": "6.9.1",
+  "_npmUser": {
+    "name": "yiminghe",
+    "email": "yiminghe@gmail.com"
+  },
+  "dist": {
+    "shasum": "fbaaa9002b41066fdf3ba21d8a4ca8b1179ad36b",
+    "tarball": "https://registry.npmjs.org/async-validator/-/async-validator-1.6.8.tgz"
+  },
+  "maintainers": [
+    {
+      "name": "yiminghe",
+      "email": "yiminghe@gmail.com"
+    }
+  ],
+  "_npmOperationalInternal": {
+    "host": "packages-18-east.internal.npmjs.com",
+    "tmp": "tmp/async-validator-1.6.8.tgz_1483527041140_0.6837994067464024"
+  },
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/async-validator/-/async-validator-1.6.8.tgz"
 }
