@@ -1,0 +1,5 @@
+{
+  "name": "async-validator",
+  "version": "1.6.8",
+  "main": "./lib/index"
+}
